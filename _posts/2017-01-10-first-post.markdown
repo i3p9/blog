@@ -1,25 +1,9 @@
 ---
 layout: post
 title:  "First Post!"
-date:   2017-01-10 06:10:22 +0700
+date:   2017-01-10 06:20:22 +0700
 categories: others
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So looks like this is the first post ever in my blog. I had high hopes about this perticular post, you know? I thought I'd write a cool first post to blow everyone's mind. But, in reality, I'm so exhausted right now because of some silly mistakes while creating this, I don't even have the urge to write anything. I'll definitely think about something to write in a few days, busy schedule ahead. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Welcome](https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/source.gif){:class="img-responsive"}
